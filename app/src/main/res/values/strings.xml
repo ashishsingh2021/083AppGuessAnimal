@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">083 App Guess Animal</string>
+    <string name="btn">BUTTON</string>
+    <string name="TEXT">TEXT</string>
+    <string name="TEXT1">"30"</string>
+    <string name="TEXT2">"00"</string>
+    <string name="verify">"verify"</string>
+</resources>
